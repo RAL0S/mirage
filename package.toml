@@ -1,0 +1,8 @@
+[package_detail]
+name = "mirage"
+description = "Mirage: an open-source and customizable tool designed to evaluate the security of embedded systems."
+version = "1.2"
+source_url = "https://github.com/RCayre/mirage"
+license = "MIT"
+install_script = "setup.sh"
+install_script_type = "shell"
